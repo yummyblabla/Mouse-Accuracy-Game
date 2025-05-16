@@ -39,4 +39,4 @@ Player Score += Player's Current Accuracy * 100 / Difficulty(Image Size)
 
 <br>
 
-You can try out the game at http://www.yummyblabla.com/portfolio/mouse-click-accuracy-game.html
+You can try out the game [here](https://clickingaccuracygame.web.app/)!
